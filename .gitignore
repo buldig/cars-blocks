@@ -30,7 +30,6 @@ ExportedObj/
 *.ncb
 *.ilk
 *.map
-*.meta
 *.pyc
 *.pyo
 *.exe
@@ -40,11 +39,6 @@ ExportedObj/
 *.vsp
 *.vspx
 *.pidb.meta
-
-# Unity3D generated meta files
-*.pidb
-*.pidb.meta
-*.pptr.meta
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
